@@ -1059,7 +1059,7 @@
     "Preposisi": {
       "Kata Depan": [
         {"ind":"di","ter":"ning","img":"assets/img/di.png"},
-        {"ind":"ke","ter":"meneh","img":"assets/img/ke.png"},
+        {"ind":"ke","ter":"kes","img":"assets/img/ke.png"},
         {"ind":"dari","ter":"saka","img":"assets/img/dari.png"},
         {"ind":"dengan","ter":"karo","img":"assets/img/dengan.png"},
         {"ind":"untuk","ter":"kanggo","img":"assets/img/untuk.png"},
